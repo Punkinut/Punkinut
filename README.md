@@ -1,5 +1,6 @@
 <h1 align="left">Hello,<img src="smirking_face.gif" width="50px" /> I'm Tom</h1>
-<p align="left">A passionate full stack developer from Sydney, Australia!</p>
+<p align="left">A passionate full stack developer from Sydney, Australia! Here on my GitHub you will find all of the projects I've worked on!</p>
+<p>You can find me on <ahref="https://www.linkedin.com/in/tom-doyle-505947204/">LinkedIn</a> or my <a href="https://punkinut.github.io/my-portfolio/">Portfolio</a>.</p>
 
 <!--
 **Punkinut/Punkinut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
