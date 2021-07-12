@@ -1,4 +1,4 @@
-<h1 align="left">Hello,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Tom</h1>
+<h1 align="left">Hello,<img src="smirking.gif" width="30px" /> I'm Tom</h1>
 <p align="left">A passionate full stack developer from Sydney, Australia!</p>
 
 <!--
