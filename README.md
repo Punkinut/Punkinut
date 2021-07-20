@@ -1,6 +1,6 @@
 <h1 align="left">Hello,<img src="beaming_face_with_smiling_eyes.gif" width="50px" /> I'm Tom</h1>
 <p align="left">A passionate full stack developer from Sydney, Australia! Here on my GitHub you will find all of the projects I've worked on!</p>
-<p>You can find me on <a href="https://www.linkedin.com/in/tom-doyle-505947204/"><img src="linkedin.png" width="20px" /></a> or my <a href="https://punkinut.github.io/my-portfolio/">Portfolio</a>.</p>
+<p>You can find me on <a href="https://www.linkedin.com/in/tom-doyle-505947204/"><img src="linkedin.png" width="20px" /></a> or my <a href="https://punkinut.github.io/React-Portfolio/">Portfolio</a>.</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Punkinut&theme=graywhite" />
 
 <!--
